@@ -1,0 +1,22 @@
+
+.container {
+  width: 100%;
+  height: fit-content;
+  padding: 0 5%;
+  margin: 10%;
+  border: 2px solid #eee;
+}
+
+.cart{
+  width: 100%;	
+}
+
+.title{
+  width: 100%;
+  font-weight: bold;
+}
+
+.collection{
+  width: 100%;
+  margin:0%;  
+}
