@@ -1,4 +1,4 @@
-This project was create to shows menu & option to add menu item in cart other operation of cart i.e, addQty or SubtractQty
+This project was created to shows menu & option to add menu item in cart & other operation of cart i.e, addQty or SubtractQty & to show total Amount
 ## Available Scripts
 
 In the project directory, you can run:
